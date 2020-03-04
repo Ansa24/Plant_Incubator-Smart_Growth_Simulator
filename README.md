@@ -1,0 +1,2 @@
+# Plant_Incubator-Smart_Growth_Simulator
+Plant Incubator – Smart Growth Environment that integrates an artificial growth environment monitored using the Internet by laying out a smart network. This is a smart Internet of Things based application which helps to grow and monitors a plant’s growth via smartphone. The objective of this project is to monitor the humidity and temperature conditions of soil and the environment in order to promote healthy growth of plants. It also makes use of a Recognition System that is used to detect plant based diseases.
